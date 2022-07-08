@@ -1,4 +1,4 @@
-## Willommen zu GitHub Pages
+## Willkommen zu GitHub Pages
 
 Verwende [editor on GitHub](https://github.com/Gudrezmar/Uebersicht/edit/gh-pages/index.md) um den Inhalt deiner Website zu bearbeiten und die Vorschau der Markdown Dateien anzusehen.
 
@@ -6,10 +6,12 @@ Immer wenn zu diesem Repository commited wird, wird GitHub Pages [Jekyll](https:
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown ist eine einfache Auszeichnungsprache. 
+
+Beispiele:
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted Code Block
 
 # Header 1
 ## Header 2
@@ -18,15 +20,15 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. eine geordnete Liste
+2. ein weiterer Listenpunkt
 
-**Bold** and _Italic_ and `Code` text
+**Bold** und _Italic_ und `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) und ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Weitere Informationen siehe [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
