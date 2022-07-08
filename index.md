@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Willommen zu GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Gudrezmar/Uebersicht/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Verwende [editor on GitHub](https://github.com/Gudrezmar/Uebersicht/edit/gh-pages/index.md) um den Inhalt deiner Website zu bearbeiten und die Vorschau der Markdown Dateien anzusehen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Immer wenn zu diesem Repository commited wird, wird GitHub Pages [Jekyll](https://jekyllrb.com/) laufen, um die Seiten der site aus dem Inhalt der Markdown Dateien neu aufzubauen. 
 
 ### Markdown
 
